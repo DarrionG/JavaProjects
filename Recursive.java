@@ -1,3 +1,9 @@
+/*This program consists of two methods
+  method 1: fractionSums() takes an input of type int from the user and assigns it to n
+  it then returns the result of 1/n + 1/(n-1) using recursion
+  method 2: linesOfStars() takes an input of type int from the user and assigns it to n
+  then it prints out a right pointing pyramid of size 2*n also uses recursion */
+
 import java.util.Scanner;
 
 public class Recursive {
