@@ -58,6 +58,5 @@ public class Recursive {
             int userChoice3 = scn.nextInt();
                 linesOfStars(userChoice3, userChoice3);
                 //end--
-        //catches any other inputs
     }
 }
